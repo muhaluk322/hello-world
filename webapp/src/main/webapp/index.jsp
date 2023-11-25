@@ -4,6 +4,10 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
+    <label for="Name"><b>Enter your profetion</b></label>
+    <input type="text" placeholder="DevOps" name="Name" id="Name" required>
+    <br>
+    
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
@@ -22,8 +26,8 @@
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
-    
-    <label for="Name"><b>ARE YOU SHURE</b></label>
+    <br>
+    <label for="Name"><b>ARE YOU SHURE??????</b></label>
     <input type="text" placeholder="NO!!!!!!!!!!!" name="Name" id="Name" required>
     <hr>
     <br>

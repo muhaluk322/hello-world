@@ -38,15 +38,9 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-    <h1>THIS IS A NEW LINE FOR TEST</h1>
-    <br>
-
-    <h1>THIS IS A another Test line</h1>
-    <br>
-
-    <h1>AND ANOTHER ONE)))))</h1>
-    <br>
-
     <h1>It should be the end)))))</h1>
+    <br>
+
+    <h1>YEAH!!!!!!!THIS IS THE END!!!!!!!!!!</h1>
     <br>
 </form>
